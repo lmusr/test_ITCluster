@@ -30,3 +30,5 @@ def process_image_opencv ():
         cv2.circle (img, (x, y), 5, 255, -1)
     cv2.imshow ( "Top 'k' features", img)
     cv2.waitKey ()
+
+#some changes
